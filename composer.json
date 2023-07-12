@@ -1,6 +1,6 @@
 {
     "name": "winter/base",
-    "description": "Documentation website for Winter CMS",
+    "description": "Base metapackage for Winter, including all core modules",
     "homepage": "https://wintercms.com",
     "type": "metapackage",
     "keywords": ["winter", "cms", "wintercms", "laravel", "cmf", "base", "metapackage"],
