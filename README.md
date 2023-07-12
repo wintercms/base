@@ -26,6 +26,16 @@ To the following:
 }
 ```
 
+You can target a specific version (or branch) by changing the version requirement, for example:
+
+```json
+"require": {
+    "winter/base": "1.2.3"
+}
+```
+
+Will install the dependencies required for `v1.2.3` and lock the version of all modules to `v1.2.3`.
+
 ## Notes
 
 This will not install any development dependencies or scripts. You must still source these from the standard [`composer.json`](https://github.com/wintercms/winter/blob/develop/composer.json) file in Winter and include them in your installation.
