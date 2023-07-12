@@ -22,10 +22,10 @@
         "php": "^7.0.8",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "winter/storm": "1.0.473",
-        "winter/wn-system-module": "1.0.473",
-        "winter/wn-backend-module": "1.0.473",
-        "winter/wn-cms-module": "1.0.473",
+        "winter/storm": "1.0.474",
+        "winter/wn-system-module": "1.0.474",
+        "winter/wn-backend-module": "1.0.474",
+        "winter/wn-cms-module": "1.0.474",
         "laravel/framework": "~5.5.40",
         "wikimedia/composer-merge-plugin": "1.4.1 || ~2.0.1"
     }
