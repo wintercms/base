@@ -1,0 +1,30 @@
+{
+    "name": "winter/base",
+    "description": "Documentation website for Winter CMS",
+    "homepage": "https://wintercms.com",
+    "type": "metapackage",
+    "keywords": ["winter", "cms", "wintercms", "laravel", "cmf", "base", "metapackage"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Winter CMS Maintainers",
+            "homepage": "https://wintercms.com",
+            "role": "Developers"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/wintercms/winter/issues",
+        "docs": "https://wintercms.com/docs",
+        "discord": "https://discord.gg/D5MFSPH6Ux",
+        "source": "https://github.com/wintercms/winter"
+    },
+    "require": {
+        "php": "^8.0.2",
+        "winter/storm": "dev-develop as 1.2",
+        "winter/wn-system-module": "dev-develop",
+        "winter/wn-backend-module": "dev-develop",
+        "winter/wn-cms-module": "dev-develop",
+        "laravel/framework": "^9.1",
+        "wikimedia/composer-merge-plugin": "~2.1.0"
+    }
+}
