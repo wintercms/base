@@ -19,12 +19,12 @@
         "source": "https://github.com/wintercms/winter"
     },
     "require": {
-        "php": "^8.0.2",
-        "winter/storm": "dev-develop as 1.2",
-        "winter/wn-system-module": "dev-develop",
-        "winter/wn-backend-module": "dev-develop",
-        "winter/wn-cms-module": "dev-develop",
-        "laravel/framework": "^9.1",
-        "wikimedia/composer-merge-plugin": "~2.1.0"
+        "php": ">=7.2.9",
+        "winter/storm": "1.1.2",
+        "winter/wn-system-module": "1.1.2",
+        "winter/wn-backend-module": "1.1.2",
+        "winter/wn-cms-module": "1.1.2",
+        "laravel/framework": "~6.0",
+        "wikimedia/composer-merge-plugin": "~2.0.1"
     }
 }
